@@ -1,6 +1,7 @@
-NeuroLens -Whitepaper  
+#NeuroLens -Whitepaper  
 Executive Summary
 NeuroLens is a real‑time, camera‑based system for estimating cognitive load and stress from facial dynamics. It uses non‑invasive computer vision methods to track blink parameters, eyelid closure, brow and lip muscle proxies, and gaze stability. Composite scoring heuristics map these features to probabilistic indicators of cognitive and emotional states. All design choices are grounded in peer‑reviewed literature (see numbered references).
+Use it here : https://anirudhgangadharan.github.io/neurolens/
 ________________________________________
 Introduction
 Real‑time estimation of mental states has applications in safety‑critical operations, adaptive human–computer interaction, and health monitoring. While gold‑standard measures involve EEG, EMG, and dedicated eye‑tracking hardware, NeuroLens aims to deliver useful approximations using only a consumer‑grade webcam.
